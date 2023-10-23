@@ -2,7 +2,7 @@
 ---
 # Pneumonia Prediction using Transfer Learning for Healthcare Analytics
 
-![Pneumonia Prediction]([insert_image_link_here](https://www.google.com/imgres?imgurl=https%3A%2F%2Fd2jx2rerrg6sh3.cloudfront.net%2Fimage-handler%2Fpicture%2F2021%2F5%2Fshutterstock_1062330374.jpg&tbnid=IyDXRQVa69cb6M&vet=12ahUKEwjw5u73hYyCAxXG2jgGHehuBKoQMygPegQIARBL..i&imgrefurl=https%3A%2F%2Fwww.news-medical.net%2Fhealth%2FPneumonia-Treatment.aspx&docid=atJm0VlYx5STzM&w=673&h=448&q=pneumonia%20prediction&client=safari&ved=2ahUKEwjw5u73hYyCAxXG2jgGHehuBKoQMygPegQIARBL))
+![Uploading image.png…]()
 
 ## Introduction
 
