@@ -2,8 +2,6 @@
 ---
 # Pneumonia Prediction using Transfer Learning for Healthcare Analytics
 
-![Uploading image.png…]()
-
 ## Introduction
 
 Pneumonia Prediction is a deep learning project that leverages the VGG16 model and transfer learning techniques to identify pneumonia indications in chest X-ray images. The project has been developed with the intention of contributing to the advancement of healthcare analytics and diagnostic tools for pneumonia detection.
